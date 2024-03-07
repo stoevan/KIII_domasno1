@@ -1,1 +1,2 @@
 Prvo domasno po premdetot Kontinuirana integracija i isporaka
+Ova e dodadena linija od forkot.
